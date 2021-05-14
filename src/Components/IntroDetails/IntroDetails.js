@@ -16,7 +16,7 @@ function IntroDetails(props) {
       ) : (
         <h1>Loading...</h1>
       )}
-      {/* <Footer/> */}
+      <Footer />
     </div>
   );
 }
