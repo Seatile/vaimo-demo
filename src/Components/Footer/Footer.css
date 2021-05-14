@@ -1,0 +1,18 @@
+.p1 {
+  color: #999999;
+  font-family: Roboto;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: left;
+}
+.p2 {
+  color: #999999;
+  font-family: Roboto;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: left;
+}
+.paymentTypes-section {
+  display: flex;
+  flex-direction: row;
+}

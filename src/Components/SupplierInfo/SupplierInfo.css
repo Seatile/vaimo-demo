@@ -1,0 +1,67 @@
+.supplierInfo {
+  margin-left: 46px;
+  margin-right: auto;
+  margin-top: 3px;
+  background-color: rgba(255, 255, 255, 0);
+  border-radius: 8px;
+  width: 230px;
+  max-height: 170px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0);
+  padding: 15px;
+}
+
+.supplierInfo > p {
+  color: #999999;
+  line-height: 16px;
+  margin-bottom: 5px;
+  font-size: 12px;
+}
+
+.left-section > p {
+  color: #999999;
+  line-height: 16px;
+  margin-bottom: 5px;
+  font-size: 12px;
+}
+
+.button-section {
+  display: flex;
+  flex-direction: column;
+  margin-top: 12px;
+}
+
+.btn-inquire {
+  margin-top: 5px;
+  border-radius: 20px;
+  height: 30px;
+}
+
+.btn-primary {
+  background-color: #ff6600;
+  color: white;
+  border: none;
+}
+
+.btn-secondary {
+  background-color: white;
+  color: #ff6600;
+  border: 1px solid #ff6600;
+}
+
+.supplierInfo-header {
+  display: flex;
+}
+
+.price {
+  margin-left: auto;
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.infoIcon {
+  margin-left: 10px;
+}
+
+.emailIcon {
+  margin-right: 5px;
+}

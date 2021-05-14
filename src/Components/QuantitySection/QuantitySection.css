@@ -1,0 +1,30 @@
+.quantity-section {
+  margin-top: 15px;
+}
+.options {
+  color: #999999;
+  font-family: Roboto;
+  font-size: 14px;
+  line-height: 16px;
+  width: 112px;
+  text-align: left;
+}
+.quantity-options {
+  color: #333333;
+  font-family: Roboto;
+  font-size: 14px;
+  line-height: 16px;
+  width: 174px;
+  text-align: left;
+}
+.quantity-price {
+  color: #333333;
+  font-family: Roboto;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: left;
+  margin-right: 20px;
+}
+.buttons {
+  display: flex;
+}

@@ -1,0 +1,53 @@
+.tab-section {
+  display: flex;
+  flex-direction: row;
+}
+
+.tab1 {
+  background-image: linear-gradient(to right, red, orange);
+  border-radius: 2px 0 0 2px;
+  width: 90px;
+  color: white;
+  font-family: Roboto;
+  font-size: 12px;
+  text-align: left;
+}
+
+.tab2 {
+  background-color: rgba(173, 125, 51, 0.2);
+  width: 75px;
+  color: #ff6600;
+  font-family: Roboto;
+  font-size: 12px;
+  text-align: left;
+}
+
+.tab3 {
+  background-color: rgba(173, 125, 51, 0.2);
+  border-radius: 0 2px 2px 0;
+  width: 106px;
+  color: #ff6600;
+  font-family: Roboto;
+  font-size: 12px;
+  text-align: left;
+}
+/*.tab1 {
+  background-color: rgba(255, 255, 255, 0);
+  border-radius: 2px 0 0 2px;
+  width: 90px;
+  height: 20px;
+}
+
+.✏️-label {
+  color: #ff6600;
+  font-family: Roboto;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: left;
+}
+.🎨-foreground {
+  background-color: rgba(255, 255, 255, 0);
+  border-radius: 0 2px 2px 0;
+  width: 106px;
+  height: 20px;
+}*/

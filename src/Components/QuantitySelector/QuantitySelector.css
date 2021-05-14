@@ -1,0 +1,38 @@
+.quantity-selector {
+  display: flex;
+  width: auto;
+  width: fit-content;
+}
+
+.btn {
+  width: 35px;
+}
+
+.plus-btn {
+  color: orangered;
+  background-color: white;
+  border-top: 1px solid orangered;
+  border-right: 1px solid orangered;
+  border-bottom: 1px solid orangered;
+  border-left: 1px solid orangered;
+}
+
+.minus-btn {
+  color: grey;
+  background-color: white;
+  border: 1px solid grey;
+}
+
+.amount {
+  padding: 5px 35px 5px 35px;
+  border: 1px solid grey;
+  border-right: none;
+  border-left: none;
+  color: grey;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}

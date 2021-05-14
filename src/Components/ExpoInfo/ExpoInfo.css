@@ -1,0 +1,32 @@
+.expo-section {
+  margin-top: 15px;
+  background-color: peachpuff;
+  width: 526px;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+}
+.expo-content {
+  display: flex;
+  color: #ff6600;
+  font-family: Roboto;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: left;
+  align-items: center;
+  margin-left: 35px;
+}
+
+.expo-paragraph {
+  margin-left: 20px;
+}
+
+@media screen and (max-width: 500px) {
+  .expo-section {
+    width: 350px;
+    height: 40px;
+  }
+  .expo-paragraph {
+    display: none;
+  }
+}

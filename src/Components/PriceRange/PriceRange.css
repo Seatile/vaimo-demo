@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+}
+.price-range {
+  background-color: rgba(255, 255, 255, 0);
+  box-shadow: inset 0 1px 0 0 #e6e7eb, inset 0 -1px 0 0 #e6e7eb;
+  width: 526px;
+  /* height: 64px; */
+  display: flex;
+  flex-direction: column;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.main-price-section {
+  display: flex;
+  text-align: left;
+}
+.striked-text {
+  text-decoration: line-through;
+  /* margin-bottom: 10px; */
+}
+.main-price {
+  color: #ff6600;
+  font-family: Roboto;
+  font-size: 16px;
+  /* line-height: 24px; */
+  text-align: left;
+}
+
+.default-text {
+  font-family: Roboto;
+  font-size: 16px;
+  /* line-height: 16px; */
+  text-align: left;
+}
+.muted-text {
+  color: #999999;
+}
+.discount-amount {
+  color: #ff6600;
+  margin-right: 10px;
+}
+.discount {
+  display: flex;
+  color: grey;
+  font-family: Roboto;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: left;
+  margin-top: 15px;
+}
+.deadline {
+  margin-left: 10px;
+}
